@@ -1,0 +1,13 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "My first node.js app",
+  "main": "main.js",
+  "repository": "https://github.com/miracle-E/hello-world",
+  "author": "miracle-E",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
