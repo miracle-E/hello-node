@@ -1,3 +1,3 @@
-# hello-world
-first repository
-making the first commit
+# hello-node
+first repository ever
+
